@@ -232,7 +232,7 @@ write.table(
 )
 
 cat("\nSDRF written to:", file_path, "\n")
-cat("File size:", file.size(output_path), "bytes\n")
+cat("File size:", file.size(file_path), "bytes\n")
 cat("Columns:", ncol(sdrf), "\n")
 cat("Rows:", nrow(sdrf), "\n")
 
