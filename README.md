@@ -7,3 +7,5 @@ sdrfFIX3.R is a script that generates sdrf_FIXED.tsv, which is required to resol
 
 #
 create_PXD002582_SDRF_finalcode.R is the code for creating an SDRF file (SDRF_PXD002582_proteome.tsv) for further analysis of the second dataset https://www.ebi.ac.uk/pride/archive/projects/PXD002582
+
+PXD002582Reanalysis.R is the main pipeline for analyzing the second dataset 
